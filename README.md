@@ -1,2 +1,2 @@
-# DeepLearningFromScratch
+# Deep Learning From Scratch
 Books, Papers, Numpy, Pandas, Sklearn, Tensorflow, MXNet, Keras ...
